@@ -61,3 +61,4 @@ crashlytics-build.properties
 
 # Build Cache
 obj/
+build.zip
